@@ -1,2 +1,12 @@
-# bangkit-final-project
-Bangkit Final Project - Smart Parking System
+# Smart Parking by NextInt
+
+Team Member :
+
+
+# Look at our Code
+
+## Mobile 
+
+## Backend
+
+## Machine Learning
