@@ -15,21 +15,36 @@ Our beloved team member:
 
 We have 3 different GitHub repository to make it easier for us to update. So, in here we will explain for each GitHub repo.
 
-## Android
+## Highlight Features
+
+Here are our for our highlighted features:
+
+```
+1. Car Plate Detection
+2. Car Plate Number Reader
+3. Real Time Notifaction Transaction
+4. Top Up Simulation
+5. Payment Security
+```
+
+For more explanation for each path:
+
+### Android
 
 TBA
 
 Link to repo: [Mobile Development Repository](https://github.com/sahirrrr/NextParking)
 
 
-## Machine Learning
+### Machine Learning
 
 We have these processes that will running in the cloud. In this development we use simulation that will run like this:
 
 ![image](images/payment_flow.png)
 
 To check our Machine Learning development, [click here.](https://github.com/sekarlm/license-plate-recognition)
-## REST API
+
+### REST API
 
 We are using **NodeJS** with **Express** Framework and **PostgreSQL** as our development technology stack. This REST API is used to support our Android Application.
 
