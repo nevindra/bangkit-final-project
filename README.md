@@ -27,6 +27,7 @@ Link to repo: [Mobile Development Repository](https://github.com/sahirrrr/NextPa
 We have these processes that will running in the cloud. In this development we use simulation that will run like this:
 
 ![image](images/payment_flow.png)
+
 To check our Machine Learning development, [click here.](https://github.com/sekarlm/license-plate-recognition)
 ## REST API
 
